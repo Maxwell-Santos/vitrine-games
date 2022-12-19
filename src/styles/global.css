@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+    @apply bg-[#121212] text-white/80 font-Raleway
+  }
+
+  h1 {
+    @apply font-Oswald
+  }
+
+  img {
+    @apply w-full h-full object-cover
+  }
+
+  dt {
+    @apply font-Oswald text-2xl mt-6 mb-2
+  }
+
+  dd {
+    @apply text-base
+  }
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "id": 2,
+    "name":"God of War Ragnarok",
+    "info": "God of War Ragnarök é um jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Foi lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5. É o nono título da série God of War, o nono em ordem cronológica, e a sequência de God of War.",
+
+    "banner": "https://images.alphacoders.com/117/1173124.jpg",
+    "poster":"https://m.media-amazon.com/images/I/81I-Kiv9n8L.jpg",
+
+    "company": {
+      "name": "Santa Monica Studio",
+      "description": " Santa Monica Studio é uma desenvolvedora norte-americana de jogos eletrônicos sediada em Los Angeles, Califórnia. O estúdio foi fundado em 1999 por Allan Becker e estava originalmente localizado em Santa Mônica, Califórnia, até se mudar para Playa Vista em 2014."
+    },
+    "avatars": "  Kratos, Atreus, Thor, Odin, Mimir, Freya, Brok, Sindri",
+    "how_play": "Destrua tudo o que puder no cenário; Melhore as habilidades de Atreus; Entenda como funcionam os atributos de Kratos; Pratique o desapego e venda itens de nível ; Fique de olho no bestiário; Teste runas diferentes para conhecer ou; Saiba utilizar o machado de Kratos; Use o cenário a seu favor; Complete as missões secundárias",
+    "game_time": 25
+  },
+  {
+    "id": 4,
+    "name":"The Last of Us II",
+    "info": "The Last of Us é uma franquia de jogos eletrônicos de ação-aventura e survival horror exclusiva da PlayStation, criada por Neil Druckmann. A franquia é situada em um mundo pós-apocalíptico, com seres humanos hostis e criaturas canibais infectadas por uma mutação do fungo cordyceps.",
+
+    "banner": "https://quintacapa.com.br/wp-content/uploads/2020/06/tlou2.jpg",
+    "poster":"https://i.pinimg.com/originals/54/e9/7b/54e97b752fdfcf4bbba420f60fc07633.jpg",
+    
+    "company": {
+      "name": " Naughty Dog",
+      "description": " A Naughty Dog, LLC é uma desenvolvedora norte-americana de jogos eletrônicos sediada em Santa Mônica, Califórnia. Foi fundada em setembro de 1984 pelos então estudantes colegiais Andy Gavin e Jason Rubin como JAM Software, sendo renomeada para seu nome atual alguns anos depois em 1989."
+    },
+    "avatars": "Ellie, Abby, Joel",
+    "how_play": "The Last of Us é um jogo eletrônico pós-apocalíptico de ação-aventura e sobrevivência apresentado a partir de uma perspectiva em terceira pessoa. O jogador atravessa uma série de ambientes arruinados, passando por locais variados como cidades, florestas, edifícios e esgotos a fim de avançar pela história.",
+    "game_time": 29
+
+  },
+  {
+    "id": 1,
+    "name": "Assassin's Creed Valhalla",
+    "info": " Assassin's Creed Valhalla se ambienta no passado histórico do século IX. Os jogadores jogam na pele de Eivor, um viking que lidera uma tribo para invadir e conquistar o oeste da Inglaterra. O jogo se passa na Noruega e nas terras dos saxões.",
+    
+    "banner": "https://cdn.ome.lt/2UA5OMTPmseegp74dq65k08ANqU=/1200x630/smart/extras/conteudos/assassins-creed-valhalla-banner.jpg",
+    "poster": "https://img.elo7.com.br/product/original/36DCC9C/big-poster-assassins-creed-valhalla-lo03-tamanho-90x60-cm-assassins-creed.jpg",
+
+    "company": {
+      "name": "Ubisoft Montreal",
+      "description": "A Ubisoft Divertissements Inc., cujo nome comercial é Ubisoft Montreal, é um estúdio da desenvolvedora de jogos eletrnicos francesa Ubisoft localizada em Montreal, Canadá."
+    },
+    "avatars": "Alfredo o Grande (primeira aparição), Eivor (primeira aparição), Layla Hassan, Odin (primeira aparição)",
+
+    "how_play": "Com o sistema de progressão de Assassin's Creed® Valhalla, dá para desbloquear habilidades novas na Árvore de Habilidades do seu personagem. Conforme conclui atividades e sobe de nível, você ganha pontos de habilidade e pode decidir em qual área da Árvore de Habilidades personalizada quer gastá-los.",
+    "game_time": 91
+  },
+  {
+    "id": 3,
+    "name":"Red Dead Redemption 2",
+    "info": "Red Dead Redemption 2 é um jogo eletrônico de ação-aventura desenvolvido e publicado pela Rockstar Games. É o terceiro título da série Red Dead e uma prequela de Red Dead Redemption, tendo sido lançado em outubro de 2018 para PlayStation 4 e Xbox One e em novembro de 2019 para Microsoft Windows e Google Stadia.",
+    
+    "banner": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2018/11/red-dead-redemption-2-hero-banner-03-ps4-us-07jun18.jpg",
+    "poster":"https://img.elo7.com.br/product/original/262527F/big-poster-gamer-red-dead-redemption-2-lo01-tamanho-90x60-cm-poster-de-games.jpg",
+
+    "company": {
+      "name": "Rockstar Games",
+      "description": "Rockstar Games, Inc. é uma produtora e publicadora de jogos eletrônicos fundada em 1994. Conhecida por ter criado grandes nomes dos jogos eletrônicos, a Rockstar é criadora das famosas séries Grand Theft Auto, Red Dead, Midnight Club, Bully, Max Payne e Manhunt"
+    },
+    "avatars": "Arthur Morgan, Dutch van der Linde, John Marston, Abigail Marston, Bill Williamson.",
+    "how_play": "Complete as tarefas do acampamento. Completar as tarefas do acampamento permite evoluir sua barra de Dead Eye um pouco mais rápido no início do jogo. Procure interagir com os membros da gangue no acampamento.",
+    "game_time": 120
+  }
+
+]
